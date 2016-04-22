@@ -1,0 +1,78 @@
+
+nav{
+	height: 80px !important;
+	position: fixed;
+	z-index: 111;
+	top: 0;
+}
+/*VIDEO START*/
+.hero-container {
+	margin: 0 auto;
+	padding: 10rem 0;
+	position: relative;
+	
+}
+.hero-video {
+	height: intrinsic;
+	position: absolute;
+	width: 100%;
+}
+.bg-home{
+	margin-top: 5%;
+	background-image: url(../img/dream-team.jpg);
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+.titulo{
+	margin-top: -6%;
+	font-size: 4.0rem;;
+}
+/*VIDEO END*/
+
+/*PADDING & MARGIN */
+.pd-2{
+	padding-top: 2%;
+}
+.pd-5{
+	padding: 5%;
+}
+.pd-3{
+	padding: 3%;
+}
+.pt-5{
+	padding: 5%;
+}
+.pt-10{
+	padding-top: 18%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.zindex{
+	z-index: 1111;
+}
+.mg-5{
+	margin: 1% !important;
+	width: 30% !important;
+
+}
+.centro{
+	display: block;
+	margin: auto
+}
+
+.icono{
+	margin: auto;
+	display: block;
+}
+
+/*RECURSOS START*/
+.recursos{
+	height: 200px;
+}
+
+footer{
+	bottom: 0;	
+}
